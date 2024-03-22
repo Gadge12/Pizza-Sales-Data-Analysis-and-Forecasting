@@ -12,4 +12,7 @@ Dynamic Visualizations: Create compelling charts, graphs, and maps to present in
 SQL Queries: Extract, manipulate, and analyze data to derive actionable insights.
 
 Business Recommendations: Generate actionable recommendations based on data-driven insights to optimize marketing strategies and operational efficiency.
+
 ![Screenshot 2024-02-22 224434](https://github.com/Gadge12/Project_academic/assets/157005083/45c41329-c9a0-4202-8413-1c2011f2db32)
+
+![Screenshot 2024-02-22 224512](https://github.com/Gadge12/Project_academic/assets/157005083/571a82b0-818e-48e4-b9f7-543cc3ab8a9e)
